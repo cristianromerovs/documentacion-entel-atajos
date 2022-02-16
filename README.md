@@ -20,7 +20,7 @@ Atajos disponibles hasta `16/02/2022` `release: [1.1.0]`:
 
 ## Documentacion para Actualizaciones
 
-[Consultar documentación para crear nuevo release](https://github.com/cristianromerovs/entel-atajos/blob/main/ACTUALIZACION.md)
+[Consultar documentación para crear nuevo release](https://github.com/cristianromerovs/documentacion-entel-atajos/blob/main/ACTUALIZACION.md)
 
 ## Notas de cambios
 
